@@ -9,4 +9,5 @@
  If you have any suggestions to improve those notes or hope to consult us, please contact us and we welcome criticism and advice!
 
  Instructor: Victor H de la Peña (vhd1@columbia.edu)
+ 
  Note designers and organizors: Victor H de la Peña, Heyuan Yao (hy2704@columbia.edu), Haolin Zou (hz2574@columbia.edu)
