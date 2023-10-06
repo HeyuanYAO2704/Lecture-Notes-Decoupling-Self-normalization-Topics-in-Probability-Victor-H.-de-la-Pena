@@ -4,7 +4,7 @@
 
  The main topics contain decoupling, self-normalization, (concentration) inequalities, and their applications in several fields including stochastic processes, optimization, and machine learning. 
 
- We design the series of notes primarily for PhD students at the Georgia Institute of Technology, and we welcome citations and communications.
+ We design the series of notes primarily for Ph.D. students at the Georgia Institute of Technology, and we welcome citations and communications.
 
  If you have any suggestions to improve those notes or hope to consult us, please contact us and we welcome criticism and advice!
 
